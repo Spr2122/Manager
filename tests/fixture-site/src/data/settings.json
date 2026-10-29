@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "phone": "+79991234567",
+  "telegram": "yourcompany",
+  "whatsapp": "79991234567",
+  "maxUrl": "https://max.ru/u/yourcompany",
+  "maxHandle": "@yourcompany",
+  "email": "info@sorbentopt.ru",
+  "manufacturerName": "ООО «Глауконит»",
+  "manufacturerCity": "г. Челябинск",
+  "ownerName": "ИП [Фамилия И.О.]",
+  "ownerInn": "[ИНН]",
+  "ownerOgrnip": "[ОГРНИП]",
+  "priceListDate": "2025-12-01",
+  "vatPercent": 22,
+  "volumeFromTons": 10,
+  "volumeToTons": 1000,
+  "priceValidUntil": ""
+}

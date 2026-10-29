@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 2,
+  "products": [
+    {
+      "id": "p_0000000001",
+      "status": "published",
+      "slug": "glaukonit-sorbent-1-5-mm",
+      "oldSlugs": [],
+      "name": "Глауконитовый сорбент 1–5 мм",
+      "shortName": "Глауконит сорбент 1–5 мм",
+      "fraction": "1–5 мм",
+      "packaging": "МКР (биг-бэг) 750 кг",
+      "price": 12000,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-1.webp",
+      "description": "Природный глауконитовый сорбент крупной фракции для оптовых поставок и задач, где требуется работа с гранулированным минеральным материалом.",
+      "applications": [
+        "Нефтегазовая и промышленная отрасль",
+        "Экология и рекультивация",
+        "Водоподготовка"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000002",
+      "status": "published",
+      "slug": "glaukonit-obogashchennyj-0-1-0-9-mm",
+      "oldSlugs": [],
+      "name": "Сорбент (глауконит обогащённый) 0,1–0,9 мм",
+      "shortName": "Глауконит обогащённый 0,1–0,9 мм",
+      "fraction": "0,1–0,9 мм",
+      "packaging": "Мешок п/п 50 кг",
+      "price": 15000,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-2.webp",
+      "description": "Обогащённый глауконит с мелкой фракцией для промышленных, экологических и агротехнических задач.",
+      "applications": [
+        "Экология и рекультивация",
+        "Сельское хозяйство",
+        "Водоподготовка"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000003",
+      "status": "published",
+      "slug": "glaukonitovyj-koncentrat-dlya-ptitsy",
+      "oldSlugs": [],
+      "name": "Глауконитовый концентрат на кормовые цели (для птицы)",
+      "shortName": "Концентрат кормовой — для птицы",
+      "fraction": "Кормовая фракция",
+      "packaging": "Мешок п/п 50 кг",
+      "price": 15000,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-2.webp",
+      "description": "Глауконитовый концентрат для использования в качестве минеральной кормовой добавки в рационе птицы.",
+      "applications": [
+        "Животноводство и птицеводство"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000004",
+      "status": "published",
+      "slug": "glaukonitovyj-koncentrat-krs-svini-ovcy",
+      "oldSlugs": [],
+      "name": "Глауконитовый концентрат на кормовые цели, мука (КРС, свиньи, овцы)",
+      "shortName": "Концентрат кормовой — КРС, свиньи, овцы",
+      "fraction": "Мука (тонкий помол)",
+      "packaging": "Мешок п/п",
+      "price": 25000,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-3.webp",
+      "description": "Глауконитовый концентрат в виде муки — минеральная кормовая добавка для крупного рогатого скота, свиней и овец.",
+      "applications": [
+        "Животноводство и птицеводство"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000005",
+      "status": "published",
+      "slug": "glaukonit-sorbent-0-01-0-1-mm",
+      "oldSlugs": [],
+      "name": "Глауконитовый сорбент 0,01–0,1 мм",
+      "shortName": "Глауконит сорбент 0,01–0,1 мм",
+      "fraction": "0,01–0,1 мм",
+      "packaging": "Мешок п/п",
+      "price": null,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-4.webp",
+      "description": "Тонкодисперсная фракция природного глауконита для задач, где требуется материал с малым размером частиц.",
+      "applications": [
+        "Промышленная очистка",
+        "Экология",
+        "Сельское хозяйство"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000006",
+      "status": "published",
+      "slug": "glaukonitovyj-koncentrat-85",
+      "oldSlugs": [],
+      "name": "Глауконитовый концентрат 85%, мука",
+      "shortName": "Глауконитовый концентрат 85%",
+      "fraction": "Мука (тонкий помол)",
+      "packaging": "Мешок п/п",
+      "price": null,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-5.webp",
+      "description": "Глауконитовый концентрат высокой концентрации (85%) для специализированных промышленных и технологических задач.",
+      "applications": [
+        "Промышленность",
+        "Экология",
+        "Специализированные минеральные смеси"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000007",
+      "status": "published",
+      "slug": "granulirovannyj-glaukonit-gl-gr-1",
+      "oldSlugs": [],
+      "name": "Неорганический сорбент — глауконит гранулированный (Гл-ГР-1)",
+      "shortName": "Гранулированный глауконит Гл-ГР-1",
+      "fraction": "1,5×2 – 4×7 мм",
+      "packaging": "Мешок бумажный",
+      "price": null,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-6.webp",
+      "description": "Гранулированная продукция с заданным диапазоном размеров частиц для оптовых поставок.",
+      "applications": [
+        "Сельское хозяйство",
+        "Экология",
+        "Промышленные задачи"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    },
+    {
+      "id": "p_0000000008",
+      "status": "published",
+      "slug": "glaukonit-gr",
+      "oldSlugs": [],
+      "name": "Глауконит марка ГР (в тёплое время года)",
+      "shortName": "Глауконит ГР (тёплое время года)",
+      "fraction": "По спецификации",
+      "packaging": "МКР (биг-бэг) 700 кг",
+      "price": 6500,
+      "priceUnit": "₽/т",
+      "minimum": "От 10 до 1000 тонн",
+      "image": "/images/product-1.webp",
+      "description": "Глауконитовая продукция для оптовых поставок. Конкретные параметры и стоимость уточняются по техническому заданию.",
+      "applications": [
+        "Промышленность",
+        "Сельское хозяйство",
+        "Экология"
+      ],
+      "seoTitle": "",
+      "seoDescription": ""
+    }
+  ]
+}
